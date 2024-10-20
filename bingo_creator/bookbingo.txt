@@ -1,0 +1,59 @@
+# general topics
+re-read
+thrifted book
+full series
+banned book
+recommended by a friend
+made into movie/show
+a "classic"
+audiobook
+original language is not english
+borrowed book (library/friend)
+# genres
+new (to me) genre
+nonfiction
+biography
+non-human characters
+not on earth
+short-story collection
+fantasy
+science fiction
+thriller
+crime & mystery
+discworld
+has magic
+doesn't has magic
+manga
+cozy vibes
+set on or involving a train
+cats.
+romance
+time travel
+# authors
+new (to me) author
+author i've read 5+ books from
+author using a pseudonym
+two or more authors
+# titles
+title contains a color
+title contains a person's name
+title contains a location's name
+title contains a number
+title contains an animal
+title has 5+ words
+one word title
+# physical book properties
+under 300 pages
+500+ pages
+800+ pages
+good book, bad cover
+pretty cover
+# release date
+current year release
+older than me
+released 10+ years ago
+released 20+ years ago
+released 30+ years ago
+released 40+ years ago
+released 50+ years ago
+owned but unread for 4+ years
